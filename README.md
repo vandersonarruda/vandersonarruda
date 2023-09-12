@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Vanderson Arruda
 
-- 👨🏻‍💻 Web, mobile, and IoT developer from São Paulo/Brazil with a strong enthusiasm for the latest technologies.
+- 👨🏻‍💻 Web, mobile, and IoT developer from São Paulo (Brazil) with a strong enthusiasm for the latest technologies.
 - 💿 Check out my portfolio at [http://vanderson.com.br](http://vanderson.com.br)
 - 🧠 Actively working on self-initiated projects and learning Generative AI & Computer Vision."
 
