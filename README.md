@@ -3,14 +3,12 @@
 
 Web, mobile, and IoT developer from Brazil with a strong enthusiasm for the latest technologies.
 
-- 📍 I'm based in São Paulo, Brazil
-- 👨🏻‍💻 My portfolio are available at [vanderson.com.br](vanderson.com.br)
-- 🚀 I’m currently working on self-initiated projects, bringing to life both my own innovative ideas
-- 🧠 I'm learning Generative AI and Computer Vision
-- ✉️ You can contact me at **contato@vanderson.com.br**
+[![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-279EFF?style=flat-square&labelColor=279EFF&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-vandersonarruda-279EFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersonarruda/)](https://www.linkedin.com/in/vandersonarruda/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato@vanderson.com.br-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@vanderson.com.br)](mailto:contato@vanderson.com.br)
 
-[Instagram](https://www.instagram.com/vandersonarruda/) | [LinkedIn](https://www.linkedin.com/in/vandersonarruda/)
-
+- 👨🏻‍💻 Based in São Paulo, Brazil | Portfolio at http://vanderson.com.br
+- 🧠 Actively working on self-initiated projects and learning Generative AI & Computer Vision."
 
 ### Skills
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="24" height="24" alt="Arduino" /></a>
