@@ -1,8 +1,8 @@
 
 # Hi 👋, I'm Vanderson Arruda
 
-- 🚀 Web, mobile, and IoT developer from Brazil with a strong enthusiasm for the latest technologies.
-- 👨🏻‍💻 Based in São Paulo, Brazil | Portfolio at http://vanderson.com.br
+- 👨🏻‍💻 Web, mobile, and IoT developer from São Paulo/Brazil with a strong enthusiasm for the latest technologies.
+- 💿 Check out my portfolio at [http://vanderson.com.br](http://vanderson.com.br)
 - 🧠 Actively working on self-initiated projects and learning Generative AI & Computer Vision."
 
 [![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-E1306C?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
