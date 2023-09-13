@@ -5,9 +5,9 @@
 - 🔥 Actively working on self-initiated projects and learning Generative AI & Computer Vision."
 - 👨🏻‍💻 Check out my portfolio at [http://vanderson.com.br](http://vanderson.com.br)
 
-[![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-484f58?style=flat-square&labelColor=484f58&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-vandersonarruda-484f58?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersonarruda/)](https://www.linkedin.com/in/vandersonarruda/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-contato@vanderson.com.br-484f58?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@vanderson.com.br)](mailto:contato@vanderson.com.br)
+[![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
+[![Linkedin Badge](https://img.shields.io/badge/-vandersonarruda-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersonarruda/)](https://www.linkedin.com/in/vandersonarruda/) 
+[![Gmail Badge](https://img.shields.io/badge/-contato@vanderson.com.br-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:contato@vanderson.com.br)](mailto:contato@vanderson.com.br)
 
 ### Skills
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="24" height="24" alt="Arduino" /></a>
