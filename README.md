@@ -1,11 +1,11 @@
 
 # 👋 Hi there!
 
-[![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
+### My name is Vanderson Arruda
+
 [![Linkedin Badge](https://img.shields.io/badge/-vandersonarruda-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersonarruda/)](https://www.linkedin.com/in/vandersonarruda/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@vanderson.com.br-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:contato@vanderson.com.br)](mailto:contato@vanderson.com.br)
-
-## My name is Vanderson Arruda
+[![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
 
 - 🚀 IoT Developer | Software Engineer
 - 👨🏻‍💻 Actively working on self-initiated projects
