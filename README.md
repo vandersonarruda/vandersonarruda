@@ -9,7 +9,7 @@
 
 - 🚀 IoT Developer | Software Engineer
 - 👨🏻‍💻 Actively working on self-initiated projects
-- 💡 Learning Generative AI & Computer Vision.
+- 🌱 Learning Generative AI & Computer Vision.
 - 🔥 Check out my portfolio at [http://vanderson.com.br](http://vanderson.com.br)
 
 ### Skills
