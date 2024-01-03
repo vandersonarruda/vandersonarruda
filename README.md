@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@vanderson.com.br-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:contato@vanderson.com.br)](mailto:contato@vanderson.com.br)
 
-- 🚀 Software Engineer - Focused on Web/Mobile and IoT Solutions Developer and 
+- 🚀 Software Engineer - Focused on Web/Mobile and IoT
 - 👨🏻‍💻 Actively working on self-initiated projects
 - 🌱 Generative AI & Computer Vision Learner
 - 🔥 Check out my portfolio at [http://vanderson.com.br](http://vanderson.com.br)
