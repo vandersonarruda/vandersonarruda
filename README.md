@@ -1,16 +1,15 @@
 
-# 👋 Hi there!
-
-### I am Vanderson Arruda
+# 👋 Hi there! I am Vanderson Arruda
 
 [![Linkedin Badge](https://img.shields.io/badge/-vandersonarruda-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersonarruda/)](https://www.linkedin.com/in/vandersonarruda/) 
 [![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
 [![Gmail Badge](https://img.shields.io/badge/-contato@vanderson.com.br-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:contato@vanderson.com.br)](mailto:contato@vanderson.com.br)
 
-- 🚀 Software Engineer - Focused on Web/Mobile and IoT
-- 👨🏻‍💻 Actively working on self-initiated projects
-- 🌱 Generative AI & Computer Vision Learner
-- 🔥 Check out my portfolio at [http://vanderson.com.br](http://vanderson.com.br)
+- 🚀 Software Engineer - Experienced in Web/Mobile & IoT.
+- 👨🏻‍💻 Creator of innovative self-initiated projects.
+- 🌱 Currently learning Generative AI & Computer Vision.
+- 🔥 See my work: [vanderson.com.br](http://vanderson.com.br)
+
 
 ### Skills
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="24" height="24" alt="TypeScript" /></a>
