@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-contato@vanderson.com.br-484f58?style=flat-square&labelColor=DB4437&logo=Gmail&logoColor=white&link=mailto:contato@vanderson.com.br)](mailto:contato@vanderson.com.br)
 
 - 🚀 Software Engineer - Experienced in Web/Mobile & IoT.
-- 👨🏻‍💻 Creator of innovative self-initiated projects.
-- 🌱 Currently learning Generative AI & Computer Vision.
-- 🔥 See my work: [vanderson.com.br](http://vanderson.com.br)
+- 🌱 Creating innovative self-initiated projects.
+- 🔬 Exploring Generative AI & Computer Vision.
+- 🔥 See my work [vanderson.com.br](http://vanderson.com.br)
 
 
 ### Skills
