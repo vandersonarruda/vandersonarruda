@@ -1,5 +1,5 @@
 
-# 👋 Hi! I'm Vanderson Arruda
+# I'm Vanderson Arruda
 
 [![Linkedin Badge](https://img.shields.io/badge/-vandersonarruda-484f58?style=flat-square&labelColor=279EFF&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vandersonarruda/)](https://www.linkedin.com/in/vandersonarruda/) 
 [![Instagram Badge](https://img.shields.io/badge/-@vandersonarruda-484f58?style=flat-square&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/vandersonarruda/)](https://www.instagram.com/vandersonarruda/) 
@@ -46,7 +46,8 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="24" alt="threejs logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=sass" height="24" alt="sass logo"  />
-  <img width="1" />
+</div>
+<div align="left">  
   <img src="https://skillicons.dev/icons?i=docker" height="24" alt="docker logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=postgres" height="24" alt="postgresql logo"  />
@@ -74,6 +75,4 @@
   <img src="https://skillicons.dev/icons?i=arduino" height="24" alt="arduino logo"  />
   <img width="1" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="24" alt="raspberrypi logo"  />
-  <img width="1" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="24" alt="msdos logo"  />
 </div>
